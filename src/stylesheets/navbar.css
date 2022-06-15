@@ -1,0 +1,11 @@
+#navbar {
+  background-color: #cc0000;
+  color: white;
+  width: 100%;
+}
+
+#cart {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
